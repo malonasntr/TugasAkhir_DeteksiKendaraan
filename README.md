@@ -13,7 +13,7 @@ Data diperoleh dari **Surabaya Intelligent Transportation System (SITS)** dengan
 
 Evaluasi dilakukan melalui tujuh skenario pengujian menggunakan metrik **Precision, Recall, F1-Score, dan mAP50**.
 
-## ⚙️ Metodologi
+## Metodologi
 
 **1. Ekstraksi Frame Video**  
 Memecah rekaman video CCTV lalu lintas menjadi gambar menggunakan **OpenCV** dengan interval 0,3 detik, kemudian mengelompokkan data berdasarkan kondisi pencahayaan **daytime** dan **nighttime**.
